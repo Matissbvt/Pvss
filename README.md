@@ -48,10 +48,11 @@
 
 ## Aditionnal components
 
-➕ If you want a complete configuration you need to add some little components like them.
+➕ If you want a complete configuration you need to add some little components like them (compiler, fonts, etc).
 
 |     Name     | Link                                        |
 | :----------: | ------------------------------------------- |
+| Jetbrains Mono | https://sourceforge.net/projects/gcc-win64/](https://www.jetbrains.com/fr-fr/lp/mono/ |
 | GCC Compiler | https://sourceforge.net/projects/gcc-win64/ |
 |    Python    | https://www.python.org/                     |
 
