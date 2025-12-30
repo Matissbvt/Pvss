@@ -1,0 +1,53 @@
+{
+    // Partie éditeur ~ Editor part
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "trailing",
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": "off",
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "workbench.startupEditor": "none",
+    "chat.disableAIFeatures": true,
+    // Gestion des fichiers ~ File managerment
+    "files.autoSave": "onWindowChange",
+    "files.defaultLanguage": "markdown",
+    "explorer.autoReveal": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmUndo": "light",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.idea": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.android": true
+    },
+    // Espace de travail ~ Workspace
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "onHover",
+    "workbench.editor.enablePreview": false,
+    "workbench.secondarySideBar.defaultVisibility": "visible",
+    "emmet.triggerExpansionOnTab": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    // Style et visualisation ~ Style and visualisation
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontWeight": "500",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorWidth": 4,
+    "editor.lineHeight": 23,
+    "editor.fontSize": 16,
+    "workbench.iconTheme": "charmed-soft",
+    "workbench.colorTheme": "dark-emerald",
+    // Options d'extensions ~ Extensions options
+    "chat.extensionUnification.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
