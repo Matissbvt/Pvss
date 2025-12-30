@@ -52,7 +52,7 @@
 
 |     Name     | Link                                        |
 | :----------: | ------------------------------------------- |
-| Jetbrains Mono | https://sourceforge.net/projects/gcc-win64/](https://www.jetbrains.com/fr-fr/lp/mono/ |
+| Jetbrains Mono | https://www.jetbrains.com/fr-fr/lp/mono/ |
 | GCC Compiler | https://sourceforge.net/projects/gcc-win64/ |
 |    Python    | https://www.python.org/                     |
 
